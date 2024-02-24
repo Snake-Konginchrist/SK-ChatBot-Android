@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="title_text">斯黄聊天机器人（GPT-3.5）</string>
+    <string name="register">注册</string>
+    <string name="phone_number">手机号</string>
+    <string name="verification_code">验证码</string>
+    <string name="send_verification_code">发送验证码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="invitation_code">邀请码</string>
+    <string name="send">发送</string>
+    <string name="type_your_message">请输入……</string>
+    <string name="title">斯黄聊天机器人</string>
+    <string name="new_user_register">新用户注册</string>
+    <string name="return_to_login">返回登录界面</string>
+</resources>
